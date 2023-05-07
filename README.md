@@ -1,3 +1,5 @@
 # game-jump-Mario feito com css e javascrip!!
 
-[Captura de Tela (109)](https://user-images.githubusercontent.com/72985107/236657175-a2d47864-0ed8-4a99-9e58-3d89ee746c93.png)
+
+
+![mario-jump](https://user-images.githubusercontent.com/72985107/236657266-f0bad21d-dc5a-4768-84b3-07fc66e02295.png)
